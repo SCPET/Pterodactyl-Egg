@@ -4,7 +4,7 @@
         "version": "PTDL_v1",
         "update_url": null
     },
-    "exported_at": "2021-06-15T22:43:55-05:00",
+    "exported_at": "2021-06-15T22:46:06-05:00",
     "name": "SCPET Steam",
     "author": "virtualbrightplayz@gmail.com",
     "description": "SCP: Escape Together Steam Server",
@@ -32,7 +32,7 @@
             "name": "STEAMSCRIPT",
             "description": "",
             "env_variable": "STEAMSCRIPT",
-            "default_value": "+login anonymous +force_install_dir \/mnt\/server +app_update 1433270 -bete beta validate +quit",
+            "default_value": "+login anonymous +force_install_dir \/mnt\/server +app_update 1433270 validate +quit",
             "user_viewable": true,
             "user_editable": false,
             "rules": "required|string"
