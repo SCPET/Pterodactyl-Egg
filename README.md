@@ -1,2 +1,2 @@
 # Pterodactyl-Egg
-OfficalPterodactyl egg for SCP: Escape Together
+Offical Pterodactyl egg for SCP: Escape Together
