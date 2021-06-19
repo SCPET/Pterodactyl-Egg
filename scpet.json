@@ -4,7 +4,7 @@
         "version": "PTDL_v1",
         "update_url": null
     },
-    "exported_at": "2021-06-15T22:46:06-05:00",
+    "exported_at": "2021-06-19T14:19:42-05:00",
     "name": "SCPET Steam",
     "author": "virtualbrightplayz@gmail.com",
     "description": "SCP: Escape Together Steam Server",
@@ -16,7 +16,7 @@
     "startup": ".\/SCPET-Server",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"Server is ready and is waiting for players\",\r\n    \"userInteraction\": [\r\n        \"Server is ready and is waiting for players\"\r\n    ]\r\n}",
+        "startup": "{\r\n    \"done\": \"Nav mesh bake complete.\",\r\n    \"userInteraction\": [\r\n        \"Server is ready and is waiting for players\"\r\n    ]\r\n}",
         "logs": "{}",
         "stop": "stop"
     },
